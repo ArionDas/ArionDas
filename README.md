@@ -1,6 +1,6 @@
 ![logo](https://github.com/ArionDas/ArionDas/blob/main/arion_das.png)
 <h1 align="center">Hi 👋, I'm Arion Das</h1>
-<h3 align="center">Only one seed in a mango</h3>
+<h3 align="center">Sophomore at IIIT Ranchi</h3>
 
 - 📫 How to reach me **ariondasad@gmail.com**
 
