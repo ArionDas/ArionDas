@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, this is Arion...<br>Looking forward to working with you on some quality projects...<br><br><br>🔭 I’m currently working on Machine Learning projects, Linux, Networking<br>👯 I’m looking to collaborate on Data Science and Linux Projects<br>🤝 I’m looking for help with MLOps, Django<br>🌱 I’m currently learning Backend frameworks and databases
+## Hi, this is Arion...
+Looking forward to working with you on some quality projects...<br><br>🔭 I’m currently working on Machine Learning projects, Linux, Networking<br>👯 I’m looking to collaborate on Data Science and Linux Projects<br>🤝 I’m looking for help with MLOps, Django<br>🌱 I’m currently learning Backend frameworks and databases
 
 
 ## 🌐 Socials:
